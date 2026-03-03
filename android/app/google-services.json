@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926740165698",
+    "project_id": "drzaighy",
+    "storage_bucket": "drzaighy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926740165698:android:9732628029f7538c7169db",
+        "android_client_info": {
+          "package_name": "com.example.doctorassistent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf8DZNhxfyFULd2cGQMPyJZ9BfMM5t7Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
