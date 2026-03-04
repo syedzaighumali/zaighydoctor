@@ -5,7 +5,9 @@
 *.swp
 .DS_Store
 .atom/
-.build/
+build/*
+!build/web/
+!build/web/**
 .buildlog/
 .history
 .svn/
@@ -43,3 +45,5 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+.vercel
+.env*.local
